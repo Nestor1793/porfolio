@@ -1,0 +1,19 @@
+/* nav */
+.nav{
+    width: 50%;
+}
+
+/* section */
+section{
+    padding: 15% 10px;
+}
+.sec-inicio {
+    height: 100vh;
+    background: linear-gradient(180deg, rgba(80,51,133,1) 0%, rgba(100,66,163,1) 24%, rgba(125,84,201,1) 65%, rgba(107,219,165,1) 65%);
+}
+
+/* inicio */
+
+.sec-inicio img{
+    width: 250px;
+}
